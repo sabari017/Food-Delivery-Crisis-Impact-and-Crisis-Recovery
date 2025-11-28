@@ -54,5 +54,7 @@ The findings are based on customer orders, delivery performance, restaurant data
 - Analyze cuisine & location-wise performance  
 - Predict repeat customer probability  
 
-
+## Project / Dashboard 
+- Uploaded in pdf format 
+- Project ppt is uploaded with problem statement,objective,methodologies used,EDA,insights,recommendations and conclusion  
 
